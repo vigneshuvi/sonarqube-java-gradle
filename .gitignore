@@ -6,3 +6,4 @@ build/patchedPluginXmlFiles/plugin.xml
 build/resources/main/META-INF/plugin.xml
 build/sonar/.sonar_lock
 build/*
+.idea/*
