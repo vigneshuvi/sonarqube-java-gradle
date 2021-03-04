@@ -1,0 +1,8 @@
+.gradle/*
+build/classes/java/main-instrumented/com/uvi/App.class
+build/classes/java/main/com/uvi/App.class
+build/classes/java/test/com/uvi/AppTest.class
+build/patchedPluginXmlFiles/plugin.xml
+build/resources/main/META-INF/plugin.xml
+build/sonar/.sonar_lock
+build/*
